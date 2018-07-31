@@ -1,4 +1,4 @@
-# pwa_first_app
+# pwa first app
 A PWA bike app that psychologically makes me feel good about biking 30 miles a day
 
 ## Technically this has nothing to do with biking directly
