@@ -13,3 +13,5 @@ I'll be writing a Medium article series on this, just a little feel good thing I
 
 ### 07-30-2018 7:35 PM
 This is a working basic, mobile-first app. Literally two buttons that when tapped add or subtract 30 and update a display however currently has no persistence. The repo works as I want to work on this project from different devices and I'm like "Doh! It's on my desktop"
+
+![Progress at 07302018 744PM](https://raw.githubusercontent.com/jdc-cunningham/pwa_first_app/master/progress_07302018_743PM.png)
